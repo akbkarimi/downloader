@@ -105,8 +105,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [archive_20260514_135107](https://github.com/akbkarimi/downloader/tree/main/downloads/archive_20260514_135107)
+1. [OGX-Mini-v1.0.0a3-PICO_ESP32](https://github.com/akbkarimi/downloader/tree/main/downloads/OGX-Mini-v1.0.0a3-PICO_ESP32)
+
+2. [archive_20260514_135107](https://github.com/akbkarimi/downloader/tree/main/downloads/archive_20260514_135107)
 
 ---
